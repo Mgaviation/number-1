@@ -1,0 +1,9 @@
+rect {
+    fill: none;
+    text: none;
+}
+
+.bd-placeholder-img {
+    background-image: url("Images/image42.png");
+    background-color: white;
+}
